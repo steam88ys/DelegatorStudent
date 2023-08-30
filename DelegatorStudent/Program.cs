@@ -10,6 +10,7 @@ namespace DelegatorStudent
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
